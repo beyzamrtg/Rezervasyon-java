@@ -14,13 +14,13 @@ müşteri sınıfı , müşteri ad soyad ve engel durumu gibi özellikleri göst
 
 
 Özellikler
-Mevcut filmleri ve vizyon tarihlerini görüntüleme
-Film seçimi yapma
-Seansları görüntüleme
-Salon bilgilerini görüntüleme
-Bilet rezervasyonu yapma
-Engel durumunu belirleme
-Rezervasyon bilgilerini görüntüleme
+Mevcut filmleri ve vizyon tarihlerini görüntüleme,
+Film seçimi yapma,
+Seansları görüntüleme,
+Salon bilgilerini görüntüleme,
+Bilet rezervasyonu yapma,
+Engel durumunu belirleme,
+Rezervasyon bilgilerini görüntüleme.
 
 
 Kullanım
